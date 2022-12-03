@@ -14,6 +14,9 @@
     "categories": {
       "api": {
         "pureamplify": {}
+      },
+      "auth": {
+        "pureamplify6a7c1d80": {}
       }
     }
   }
