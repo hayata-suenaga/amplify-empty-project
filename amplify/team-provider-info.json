@@ -10,6 +10,11 @@
       "StackName": "amplify-pureamplify-dev-161735",
       "StackId": "arn:aws:cloudformation:us-east-1:974925397442:stack/amplify-pureamplify-dev-161735/e906a1d0-734f-11ed-822e-12098a2b5487",
       "AmplifyAppId": "d3satzopw5w4vr"
+    },
+    "categories": {
+      "api": {
+        "pureamplify": {}
+      }
     }
   }
 }
